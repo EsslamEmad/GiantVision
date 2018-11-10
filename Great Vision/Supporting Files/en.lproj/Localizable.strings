@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  Giant Vision
+
+  Created by Esslam Emad on 17/10/18.
+  Copyright © 2018 Alyom Apps. All rights reserved.
+*/
+
+"خطأ" = "Error";
+"تم" = "Done";
+"حسنا" = "OK";
+"من فضلك أدخل البريد الإلكتروني و الرقم السري الخاص بك بشكل صحيح." = "Please enter your E-mail correctly.";
+"من فضلك أدخل بريدك الإلكتروني.." = "Please enter your E-mail..";
+"البريد الإلكتروني" = "E-mail";
+"إستعادة كلمة المرور" = "Reset password";
+"من فضلك أدخل بريدك الإلكتروني!" = "Please enter your e-mail address";
+"إلغاء" = "Cancel";
+"من فضلك أدخل جميع بياناتك!" = "Please complete your information.";
+"الرقم السري غير متطابق." = "Password does not match";
+"ذكر" = "Male";
+"أنثى" = "Female";
+"اختر طريقة رفع الصورة." = "Choose your photo source";
+"الكاميرا" = "Camera";
+"التطبيق لا يستطيع الوصول إلى الكاميرا الخاصة بك" =  "Application can not access your camera";
+"مكتبة الصور" = "Photos Library";
+"التطبيق لا يستطيع الوصول إلى مكتبة الصور الخاصة بك" = "Application can not access your photo library.";
+"تسجيل الخروج" = "Sign out";
+"هل أنت متأكد من رغبتك في تسجيل الخروج؟" = "Are you sure you want to sign out?";
+"نعم" = "Yes";
+"لا" = "No";
+"اللغة" = "Language";
+"إختر اللغة!" = "Choose the language!";
+"التطبيق لا يستطيع استخدام المايكروفون الخاص بك" = "Application can not access your microphone.";
+"من فضلك قم بإكمال البيانات الخاصة بك!" = "Please complete your information!";
+"تم إرسال الإستمارة بنجاح" = "Form sent succefully.";
+"التطبيق لم يستطع إكمال التسجيل، من فضلك أعد المحاولة." = "Application could not finish recording, please try again";
+"لم يتم العثور على الملف الصوتي" = "Could not find the audio file.";
+"من فضلك قم برفع ٣ صور!" = "Please upload 3 photos!";
+"من فضلك إنتظر قليلًا حتى يتم رفع الصور" = "Please wait..";
+"لا يمكنك إضافة المزيد من الصور" = "You can not add more photos";
+"قم بإدخال البيانات بشكل كامل" = "Complete information!";

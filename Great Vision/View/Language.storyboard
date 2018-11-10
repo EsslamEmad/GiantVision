@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="9NL-rs-cme">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Cairo-SemiBold.ttf">
+            <string>Cairo-SemiBold</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Language Set View Controller-->
+        <scene sceneID="owN-o4-hXa">
+            <objects>
+                <viewController id="9NL-rs-cme" customClass="LanguageSetViewController" customModule="Great_Vision" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="tAK-rw-ARk">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="OTN-pD-X9c">
+                                <rect key="frame" x="0.0" y="30" width="375" height="382"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="lessThanOrEqual" constant="375" id="gUb-e3-CU4"/>
+                                    <constraint firstAttribute="height" relation="lessThanOrEqual" constant="382" id="zDN-Zb-V5Y"/>
+                                </constraints>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="k8v-10-5bd">
+                                <rect key="frame" x="65.5" y="503" width="244" height="124"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kcQ-e2-zE2">
+                                        <rect key="frame" x="0.0" y="0.0" width="244" height="52"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <fontDescription key="fontDescription" name="Cairo-SemiBold" family="Cairo" pointSize="21"/>
+                                        <state key="normal" title="العربية">
+                                            <color key="titleColor" red="0.31764705879999999" green="0.64705882349999999" blue="0.73333333329999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="arSet:" destination="9NL-rs-cme" eventType="touchUpInside" id="8jz-tU-04K"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fBj-GL-URd">
+                                        <rect key="frame" x="0.0" y="72" width="244" height="52"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <fontDescription key="fontDescription" name="Cairo-SemiBold" family="Cairo" pointSize="21"/>
+                                        <state key="normal" title="English">
+                                            <color key="titleColor" red="0.31764705879999999" green="0.64705882349999999" blue="0.73333333329999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="enSet:" destination="9NL-rs-cme" eventType="touchUpInside" id="ueG-w1-aY1"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.31764705879999999" green="0.64705882349999999" blue="0.73333333329999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="dqn-UM-dKQ" firstAttribute="bottom" secondItem="k8v-10-5bd" secondAttribute="bottom" constant="40" id="12Z-zO-kRD"/>
+                            <constraint firstItem="k8v-10-5bd" firstAttribute="width" secondItem="tAK-rw-ARk" secondAttribute="width" multiplier="0.65" id="1HG-JI-eIt"/>
+                            <constraint firstItem="OTN-pD-X9c" firstAttribute="top" secondItem="dqn-UM-dKQ" secondAttribute="top" constant="10" id="2bp-uV-nG3"/>
+                            <constraint firstItem="OTN-pD-X9c" firstAttribute="width" secondItem="tAK-rw-ARk" secondAttribute="width" id="3hp-f6-MlJ"/>
+                            <constraint firstItem="OTN-pD-X9c" firstAttribute="centerX" secondItem="tAK-rw-ARk" secondAttribute="centerX" id="7uI-rI-GJW"/>
+                            <constraint firstItem="k8v-10-5bd" firstAttribute="centerX" secondItem="tAK-rw-ARk" secondAttribute="centerX" id="mi8-Gs-5CN"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="dqn-UM-dKQ"/>
+                    </view>
+                    <connections>
+                        <outlet property="arButton" destination="kcQ-e2-zE2" id="xzd-4d-ciA"/>
+                        <outlet property="enButton" destination="fBj-GL-URd" id="6UU-cL-PXj"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="a8X-cO-hAg" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="94" y="184"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="logo" width="375" height="382"/>
+    </resources>
+</document>

@@ -1,0 +1,63 @@
+
+/* Class = "UITextField"; placeholder = "العنوان"; ObjectID = "5lg-2Z-iGp"; */
+"5lg-2Z-iGp.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "هل لك أعمال تقديمية من قبل؟ (اذكر إن وجد)"; ObjectID = "6f2-h1-dA8"; */
+"6f2-h1-dA8.text" = "هل لك أعمال تقديمية من قبل؟ (اذكر إن وجد)";
+
+/* Class = "UITextField"; placeholder = "الجنسية"; ObjectID = "DsE-PU-4Fe"; */
+"DsE-PU-4Fe.placeholder" = "الجنسية";
+
+/* Class = "UIButton"; normalTitle = "عضو جديد"; ObjectID = "IJs-uU-cUC"; */
+"IJs-uU-cUC.normalTitle" = "عضو جديد";
+
+/* Class = "UILabel"; text = "ارفع صورتك الشخصية"; ObjectID = "ITe-JM-kFf"; */
+"ITe-JM-kFf.text" = "ارفع صورتك الشخصية";
+
+/* Class = "UITextField"; placeholder = "الجنس"; ObjectID = "M7M-de-EwO"; */
+"M7M-de-EwO.placeholder" = "الجنس";
+
+/* Class = "UITextField"; placeholder = "البريد الإلكتروني"; ObjectID = "O3L-lE-1iD"; */
+"O3L-lE-1iD.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UIButton"; normalTitle = "دخول"; ObjectID = "PF6-83-5kD"; */
+"PF6-83-5kD.normalTitle" = "دخول";
+
+/* Class = "UIButton"; normalTitle = "هل نسيت رقمك السري؟"; ObjectID = "Qew-Fg-RuX"; */
+"Qew-Fg-RuX.normalTitle" = "هل نسيت رقمك السري؟";
+
+/* Class = "UITextField"; placeholder = "تأكيد الرقم السري"; ObjectID = "RQE-bK-bjJ"; */
+"RQE-bK-bjJ.placeholder" = "تأكيد الرقم السري";
+
+/* Class = "UITextField"; placeholder = "لون البشرة"; ObjectID = "Rcn-qi-Ddr"; */
+"Rcn-qi-Ddr.placeholder" = "لون البشرة";
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "T79-TV-YXW"; */
+"T79-TV-YXW.placeholder" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "تسجيل"; ObjectID = "TdH-Rd-h9D"; */
+"TdH-Rd-h9D.normalTitle" = "تسجيل";
+
+/* Class = "UITextField"; placeholder = "البريد الإلكتروني"; ObjectID = "Tje-J0-Jak"; */
+"Tje-J0-Jak.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "الرقم السري"; ObjectID = "VpM-OL-NSr"; */
+"VpM-OL-NSr.placeholder" = "الرقم السري";
+
+/* Class = "UITextField"; placeholder = "الرقم السري"; ObjectID = "WWI-vh-Q0X"; */
+"WWI-vh-Q0X.placeholder" = "الرقم السري";
+
+/* Class = "UITextField"; placeholder = "الوزن"; ObjectID = "dur-Sr-7ZP"; */
+"dur-Sr-7ZP.placeholder" = "الوزن";
+
+/* Class = "UITextField"; placeholder = "العمر"; ObjectID = "lEb-Xm-t9a"; */
+"lEb-Xm-t9a.placeholder" = "العمر";
+
+/* Class = "UIButton"; normalTitle = "دخول مستخدم"; ObjectID = "o5l-FN-u64"; */
+"o5l-FN-u64.normalTitle" = "دخول مستخدم";
+
+/* Class = "UITextField"; placeholder = "الإسم الثلاثي"; ObjectID = "sB5-xv-Qmq"; */
+"sB5-xv-Qmq.placeholder" = "الإسم الثلاثي";
+
+/* Class = "UITextField"; placeholder = "الطول"; ObjectID = "ucj-18-aSg"; */
+"ucj-18-aSg.placeholder" = "الطول";

@@ -1,0 +1,294 @@
+
+/* Class = "UILabel"; text = "ارفع صورتك الشخصية"; ObjectID = "0fy-vX-OLo"; */
+"0fy-vX-OLo.text" = "ارفع صورتك الشخصية";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "1dS-Ot-maa"; */
+"1dS-Ot-maa.normalTitle" = "Language";
+
+/* Class = "UITextField"; placeholder = "مقاس الجينز"; ObjectID = "2CB-am-mYo"; */
+"2CB-am-mYo.placeholder" = "مقاس الجينز";
+
+/* Class = "UIButton"; normalTitle = "الرئيسية"; ObjectID = "2yj-hw-h96"; */
+"2yj-hw-h96.normalTitle" = "الرئيسية";
+
+/* Class = "UILabel"; text = "الطول"; ObjectID = "59t-HX-mz3"; */
+"59t-HX-mz3.text" = "الطول";
+
+/* Class = "UITextField"; placeholder = "مقاس البوت"; ObjectID = "5MG-xf-0kh"; */
+"5MG-xf-0kh.placeholder" = "مقاس البوت";
+
+/* Class = "UIButton"; normalTitle = "رجوع"; ObjectID = "6DA-X1-72N"; */
+"6DA-X1-72N.normalTitle" = "رجوع";
+
+/* Class = "UITextField"; placeholder = "الإسم بالكامل"; ObjectID = "6u2-hi-vdZ"; */
+"6u2-hi-vdZ.placeholder" = "الإسم بالكامل";
+
+/* Class = "UITextField"; placeholder = "لون العين"; ObjectID = "9FM-7c-Njg"; */
+"9FM-7c-Njg.placeholder" = "لون العين";
+
+/* Class = "UILabel"; text = "تعديل الملف الشخصي"; ObjectID = "9HU-1P-hIQ"; */
+"9HU-1P-hIQ.text" = "تعديل الملف الشخصي";
+
+/* Class = "UILabel"; text = "الجنسية"; ObjectID = "9SH-DD-kDj"; */
+"9SH-DD-kDj.text" = "الجنسية";
+
+/* Class = "UITextField"; placeholder = "لون البشرة"; ObjectID = "BdQ-Mu-JOK"; */
+"BdQ-Mu-JOK.placeholder" = "لون البشرة";
+
+/* Class = "UITextField"; placeholder = "العمر"; ObjectID = "CMt-Ri-qqH"; */
+"CMt-Ri-qqH.placeholder" = "العمر";
+
+/* Class = "UITextField"; placeholder = "الوزن"; ObjectID = "D8n-eS-tHs"; */
+"D8n-eS-tHs.placeholder" = "الوزن";
+
+/* Class = "UITextField"; placeholder = "تأكيد الرقم السري"; ObjectID = "Fq1-zm-VTp"; */
+"Fq1-zm-VTp.placeholder" = "تأكيد الرقم السري";
+
+/* Class = "UITextField"; placeholder = "الجنس"; ObjectID = "G4z-N9-rg4"; */
+"G4z-N9-rg4.placeholder" = "الجنس";
+
+/* Class = "UILabel"; text = "إستمارة العارضين"; ObjectID = "GgH-cd-wlp"; */
+"GgH-cd-wlp.text" = "إستمارة العارضين";
+
+/* Class = "UIButton"; normalTitle = "إرسال الإستمارة"; ObjectID = "I94-zL-HE9"; */
+"I94-zL-HE9.normalTitle" = "إرسال الإستمارة";
+
+/* Class = "UITextField"; placeholder = "الوزن"; ObjectID = "JHs-HC-xdN"; */
+"JHs-HC-xdN.placeholder" = "الوزن";
+
+/* Class = "UILabel"; text = "سجل و اضبط صوتك على الطبقة الي تناسبك و اتكلمنا على موضوع لمدة ٣٠ ثانية بالفواصل و التشكيل النصي"; ObjectID = "JlY-Kt-Vyn"; */
+"JlY-Kt-Vyn.text" = "سجل و اضبط صوتك على الطبقة الي تناسبك و اتكلمنا على موضوع لمدة ٣٠ ثانية بالفواصل و التشكيل النصي";
+
+/* Class = "UILabel"; text = "إملئ هذه البيانات"; ObjectID = "Kfd-6i-nUA"; */
+"Kfd-6i-nUA.text" = "إملئ هذه البيانات";
+
+/* Class = "UIButton"; normalTitle = "إرسال الإستمارة"; ObjectID = "KsN-Te-Eah"; */
+"KsN-Te-Eah.normalTitle" = "إرسال الإستمارة";
+
+/* Class = "UILabel"; text = "قم بإرسال ما تريد إلى إدارة الرؤية العملاقة"; ObjectID = "LcX-n2-nig"; */
+"LcX-n2-nig.text" = "قم بإرسال ما تريد إلى إدارة الرؤية العملاقة";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الخروج"; ObjectID = "Le0-Vx-A7n"; */
+"Le0-Vx-A7n.normalTitle" = "تسجيل الخروج";
+
+/* Class = "UITextField"; placeholder = "الإسم الثلاثي"; ObjectID = "MTh-Uc-PF8"; */
+"MTh-Uc-PF8.placeholder" = "الإسم الثلاثي";
+
+/* Class = "UIButton"; normalTitle = "إرسال"; ObjectID = "MvV-XN-XpZ"; */
+"MvV-XN-XpZ.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "إتصل بنا"; ObjectID = "OpQ-ud-JYT"; */
+"OpQ-ud-JYT.text" = "إتصل بنا";
+
+/* Class = "UILabel"; text = "إملئ هذه البيانات"; ObjectID = "Ovx-LF-YVe"; */
+"Ovx-LF-YVe.text" = "إملئ هذه البيانات";
+
+/* Class = "UITextField"; placeholder = "البريد الإلكتروني"; ObjectID = "Pgb-rl-u2P"; */
+"Pgb-rl-u2P.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UIButton"; normalTitle = "رجوع"; ObjectID = "QIS-4u-nwy"; */
+"QIS-4u-nwy.normalTitle" = "رجوع";
+
+/* Class = "UITextField"; placeholder = "البريد الإلكتروني"; ObjectID = "QOM-GK-uva"; */
+"QOM-GK-uva.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "الجنسية"; ObjectID = "Qbb-Me-i0q"; */
+"Qbb-Me-i0q.placeholder" = "الجنسية";
+
+/* Class = "UILabel"; text = "هل لك أعمال تقديمية من قبل؟ (اذكر إن وجد)"; ObjectID = "Qdc-lN-gB1"; */
+"Qdc-lN-gB1.text" = "هل لك أعمال تقديمية من قبل؟ (اذكر إن وجد)";
+
+/* Class = "UILabel"; text = "القائمة الرئيسية"; ObjectID = "QgU-PL-Bmu"; */
+"QgU-PL-Bmu.text" = "القائمة الرئيسية";
+
+/* Class = "UITextField"; placeholder = "الإسم الثلاثي"; ObjectID = "Qgn-Ho-QNa"; */
+"Qgn-Ho-QNa.placeholder" = "الإسم الثلاثي";
+
+/* Class = "UITextField"; placeholder = "الجنسية"; ObjectID = "QqU-gH-E0m"; */
+"QqU-gH-E0m.placeholder" = "الجنسية";
+
+/* Class = "UITextField"; placeholder = "الرقم السري"; ObjectID = "RCR-KD-HlO"; */
+"RCR-KD-HlO.placeholder" = "الرقم السري";
+
+/* Class = "UIButton"; normalTitle = "عن الرؤية العملاقة"; ObjectID = "RoJ-1p-eY2"; */
+"RoJ-1p-eY2.normalTitle" = "عن الرؤية العملاقة";
+
+/* Class = "UITextField"; placeholder = "العمر"; ObjectID = "S2M-MZ-ZrZ"; */
+"S2M-MZ-ZrZ.placeholder" = "العمر";
+
+/* Class = "UITabBarItem"; title = "العرض"; ObjectID = "TN5-Un-VRc"; */
+"TN5-Un-VRc.title" = "العرض";
+
+/* Class = "UITextField"; placeholder = "العنوان"; ObjectID = "Uc5-Yz-Zzp"; */
+"Uc5-Yz-Zzp.placeholder" = "العنوان";
+
+/* Class = "UITextField"; placeholder = "مقاس الثوب"; ObjectID = "Uft-mx-WmC"; */
+"Uft-mx-WmC.placeholder" = "مقاس الثوب";
+
+/* Class = "UILabel"; text = "مين اكتر شخصيات الممثلين الي تحبها و مين تحس انو يشبهك كثير؟"; ObjectID = "V9j-30-BBH"; */
+"V9j-30-BBH.text" = "مين اكتر شخصيات الممثلين الي تحبها و مين تحس انو يشبهك كثير؟";
+
+/* Class = "UIButton"; normalTitle = "إرسال الإستمارة"; ObjectID = "VIB-ZY-fig"; */
+"VIB-ZY-fig.normalTitle" = "إرسال الإستمارة";
+
+/* Class = "UITabBarItem"; title = "الصفحة الشخصية"; ObjectID = "VQP-aq-HqS"; */
+"VQP-aq-HqS.title" = "الصفحة الشخصية";
+
+/* Class = "UITextField"; placeholder = "لون البشرة"; ObjectID = "VeY-tI-NF8"; */
+"VeY-tI-NF8.placeholder" = "لون البشرة";
+
+/* Class = "UITextField"; placeholder = "مقاس الثوب"; ObjectID = "WSh-7k-e0I"; */
+"WSh-7k-e0I.placeholder" = "مقاس الثوب";
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "X5m-LU-xiJ"; */
+"X5m-LU-xiJ.placeholder" = "رقم الجوال";
+
+/* Class = "UITextField"; placeholder = "الطول"; ObjectID = "XCR-8T-37f"; */
+"XCR-8T-37f.placeholder" = "الطول";
+
+/* Class = "UILabel"; text = "ليش رشحت نفسك للتمثيل؟"; ObjectID = "XcL-UX-xwr"; */
+"XcL-UX-xwr.text" = "ليش رشحت نفسك للتمثيل؟";
+
+/* Class = "UITextField"; placeholder = "الإسم الثلاثي"; ObjectID = "Zxg-VZ-Qiq"; */
+"Zxg-VZ-Qiq.placeholder" = "الإسم الثلاثي";
+
+/* Class = "UITextField"; placeholder = "لون البشرة"; ObjectID = "bMR-0L-JfC"; */
+"bMR-0L-JfC.placeholder" = "لون البشرة";
+
+/* Class = "UITextField"; placeholder = "العنوان"; ObjectID = "bMf-6p-tKQ"; */
+"bMf-6p-tKQ.placeholder" = "العنوان";
+
+/* Class = "UITextField"; placeholder = "العمر"; ObjectID = "bOQ-Sy-fZS"; */
+"bOQ-Sy-fZS.placeholder" = "العمر";
+
+/* Class = "UILabel"; text = "العمر"; ObjectID = "dEg-DP-N7g"; */
+"dEg-DP-N7g.text" = "العمر";
+
+/* Class = "UITextField"; placeholder = "نوع جسمك"; ObjectID = "dTc-1h-Wfx"; */
+"dTc-1h-Wfx.placeholder" = "نوع جسمك";
+
+/* Class = "UILabel"; text = "الجنس"; ObjectID = "dVm-7l-Akw"; */
+"dVm-7l-Akw.text" = "الجنس";
+
+/* Class = "UIButton"; normalTitle = "الملف الشخصي"; ObjectID = "dh9-87-Q4t"; */
+"dh9-87-Q4t.normalTitle" = "الملف الشخصي";
+
+/* Class = "UITextField"; placeholder = "الجنسية"; ObjectID = "eTa-wJ-ZMG"; */
+"eTa-wJ-ZMG.placeholder" = "الجنسية";
+
+/* Class = "UILabel"; text = "الإسم الثلاثي"; ObjectID = "ebR-bz-lrx"; */
+"ebR-bz-lrx.text" = "الإسم الثلاثي";
+
+/* Class = "UILabel"; text = "العنوان"; ObjectID = "ebw-ke-JJl"; */
+"ebw-ke-JJl.text" = "العنوان";
+
+/* Class = "UITextField"; placeholder = "لون العين"; ObjectID = "eid-dP-ClC"; */
+"eid-dP-ClC.placeholder" = "لون العين";
+
+/* Class = "UITextField"; placeholder = "مقاس التيشيرت"; ObjectID = "enm-ib-t1A"; */
+"enm-ib-t1A.placeholder" = "مقاس التيشيرت";
+
+/* Class = "UILabel"; text = "إستمارة التمثيل"; ObjectID = "fCE-T5-qpd"; */
+"fCE-T5-qpd.text" = "إستمارة التمثيل";
+
+/* Class = "UITextField"; placeholder = "الطول"; ObjectID = "frL-cG-Eds"; */
+"frL-cG-Eds.placeholder" = "الطول";
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "gBy-JN-kQy"; */
+"gBy-JN-kQy.placeholder" = "رقم الجوال";
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "go1-1F-rFc"; */
+"go1-1F-rFc.placeholder" = "رقم الجوال";
+
+/* Class = "UITextField"; placeholder = "الجنس"; ObjectID = "go4-d4-ucw"; */
+"go4-d4-ucw.placeholder" = "الجنس";
+
+/* Class = "UITextField"; placeholder = "الجنسية"; ObjectID = "hDT-OR-ctd"; */
+"hDT-OR-ctd.placeholder" = "الجنسية";
+
+/* Class = "UILabel"; text = "الرسالة"; ObjectID = "ibC-ci-zwx"; */
+"ibC-ci-zwx.text" = "الرسالة";
+
+/* Class = "UITextField"; placeholder = "مقاس البوت"; ObjectID = "jMy-cr-c7r"; */
+"jMy-cr-c7r.placeholder" = "مقاس البوت";
+
+/* Class = "UILabel"; text = "الوزن"; ObjectID = "jan-He-X05"; */
+"jan-He-X05.text" = "الوزن";
+
+/* Class = "UITextField"; placeholder = "الوزن"; ObjectID = "k1E-Xy-DAp"; */
+"k1E-Xy-DAp.placeholder" = "الوزن";
+
+/* Class = "UITextField"; placeholder = "الطول"; ObjectID = "lyl-IR-X9N"; */
+"lyl-IR-X9N.placeholder" = "الطول";
+
+/* Class = "UILabel"; text = "إملئ هذه البيانات"; ObjectID = "mJc-GZ-DNj"; */
+"mJc-GZ-DNj.text" = "إملئ هذه البيانات";
+
+/* Class = "UITextField"; placeholder = "الإسم الثلاثي"; ObjectID = "mYP-tl-eFu"; */
+"mYP-tl-eFu.placeholder" = "الإسم الثلاثي";
+
+/* Class = "UIButton"; normalTitle = "رجوع"; ObjectID = "o6K-be-t4B"; */
+"o6K-be-t4B.normalTitle" = "رجوع";
+
+/* Class = "UILabel"; text = "البريد الإلكتروني"; ObjectID = "oLT-ly-pKs"; */
+"oLT-ly-pKs.text" = "البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "مقاس العباية"; ObjectID = "r0A-D4-UAT"; */
+"r0A-D4-UAT.placeholder" = "مقاس العباية";
+
+/* Class = "UITextField"; placeholder = "العنوان"; ObjectID = "rCo-ji-zG0"; */
+"rCo-ji-zG0.placeholder" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "رجوع"; ObjectID = "tfu-fb-K2O"; */
+"tfu-fb-K2O.normalTitle" = "رجوع";
+
+/* Class = "UIButton"; normalTitle = "اتصل بنا"; ObjectID = "tsp-w3-MMm"; */
+"tsp-w3-MMm.normalTitle" = "اتصل بنا";
+
+/* Class = "UILabel"; text = "صور نفسك سيلفي، و اختر صورتين حلوين من ألبومك"; ObjectID = "ugy-6r-fpL"; */
+"ugy-6r-fpL.text" = "صور نفسك سيلفي، و اختر صورتين حلوين من ألبومك";
+
+/* Class = "UITextField"; placeholder = "العمر"; ObjectID = "usJ-lA-ve9"; */
+"usJ-lA-ve9.placeholder" = "العمر";
+
+/* Class = "UITextField"; placeholder = "لون الشعر"; ObjectID = "v6k-uf-Wn4"; */
+"v6k-uf-Wn4.placeholder" = "لون الشعر";
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "vXz-Ba-Fxi"; */
+"vXz-Ba-Fxi.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "رقم الجوال"; ObjectID = "vhv-rZ-AOc"; */
+"vhv-rZ-AOc.text" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "رجوع"; ObjectID = "wXD-p0-o8K"; */
+"wXD-p0-o8K.normalTitle" = "رجوع";
+
+/* Class = "UITextField"; placeholder = "العنوان"; ObjectID = "whX-Qo-ZVR"; */
+"whX-Qo-ZVR.placeholder" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "حسابي"; ObjectID = "wlD-xa-bqt"; */
+"wlD-xa-bqt.normalTitle" = "حسابي";
+
+/* Class = "UILabel"; text = "تأكيد الرقم السري"; ObjectID = "woL-py-ivf"; */
+"woL-py-ivf.text" = "تأكيد الرقم السري";
+
+/* Class = "UITextField"; placeholder = "لون الشعر"; ObjectID = "wog-rf-rzX"; */
+"wog-rf-rzX.placeholder" = "لون الشعر";
+
+/* Class = "UILabel"; text = "لون البشرة"; ObjectID = "xI3-sg-L8C"; */
+"xI3-sg-L8C.text" = "لون البشرة";
+
+/* Class = "UITextField"; placeholder = "الجنس"; ObjectID = "xUU-Kl-sc5"; */
+"xUU-Kl-sc5.placeholder" = "الجنس";
+
+/* Class = "UILabel"; text = "الرقم السري"; ObjectID = "xts-IZ-ETD"; */
+"xts-IZ-ETD.text" = "الرقم السري";
+
+/* Class = "UIButton"; normalTitle = "تعديل"; ObjectID = "zHM-pl-Ywh"; */
+"zHM-pl-Ywh.normalTitle" = "تعديل";
+
+/* Class = "UITextField"; placeholder = "الجنس"; ObjectID = "zPF-LL-5Pw"; */
+"zPF-LL-5Pw.placeholder" = "الجنس";
+
+/* Class = "UILabel"; text = "معلومات الأصوات المسجلة"; ObjectID = "zo0-7c-rRr"; */
+"zo0-7c-rRr.text" = "معلومات الأصوات المسجلة";
